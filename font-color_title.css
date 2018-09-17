@@ -1,0 +1,187 @@
+<html>
+<head>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<title> RESUME </title>
+
+<style>
+p
+{
+	border:5px black;
+}
+
+div.a {
+font-size: 24px;
+}
+div.b {
+font-size: 24px;
+}
+div.c {
+font-size: 24px;
+}
+
+
+</style>
+<style>
+
+div.A {
+font-size: 17px;
+}
+div.B {
+font-size: 17px;
+}
+div.C {
+font-size: 17px;
+}
+div.D {
+font-size: 17px;
+}
+div.E {
+font-size: 17px;
+}
+div.F {
+font-size: 17px;
+}
+div.G {
+font-size: 17px;
+}
+div.H {
+font-size: 17px;
+}
+
+
+</style>
+<p>
+
+<style>
+div
+{
+width: 1290px;
+margin: auto;
+background: linear-gradient(to bottom, #66ccff 0%, #ff99cc 100%);
+}
+</style>
+
+</head>
+
+<body>
+<div>
+<center>
+
+<h1 style="color:#bf00ff;"><b>MY RESUME<b></h1>	
+</center>
+<img src = "image.jpg" width = 178 height = 140 hspace = 10 align = right >
+<div>
+<h2 > <b> DYESEBEL CENTILLAS <b></h2>
+<div class="a">San Jose R. Castillo Agdao Davao City </div>
+<div class="b">centillasdyesebel@gmail.com </div>
+<div class="c">Contact No.: 09075359640 </div>
+
+<hr>
+</div>
+<div>
+
+<h3>
+ <div style="color:#fff;background-color:#9495a5">
+
+<u> OBJECTIVES: </u>
+
+</h3>
+
+</h3> A Software Intern position with Hi-Tec Systems utilizing my education and in-depth knowledge of software development lifecycle to improve efficiency and enhance profitability. <br>
+To obtain an entry-level position in the IT field where I can utilize my education to contribute to company's operations.
+</h3>
+
+</div>
+
+<div>
+<h3>
+	<div style="color:#fff;background-color:#9495a5">
+
+<u> EDUCATIONAL ATTAINMENT: </u>
+</h3>
+<table border = 5 width = 1000 >
+<tr>
+	<th> Qualifications </th>
+	<th> Name of School </th>
+	<th> Address </th>
+	<th> Year Graduated </th>
+</tr>
+
+<tr>
+	<th> Elementary </th>
+	<th> Ambuan Elementary School</th>
+	<th> Ambuan, Catigbian, Bohol </th>
+	<th> 2007-2008 </th>
+</tr>
+
+<tr>
+	<th> Secondary </th>
+	<th> Catigbian National High School</th>
+	<th> Poblacion, Catigbian, Bohol </th>
+	<th> 2011-2012 </th>
+</tr>
+
+
+<tr>
+	<th> Tertiary <br>(First Year only) </th>
+	<th> Bohol Island State University</th>
+	<th> Balilihan, Bohol</th>
+	<th> 2012-2013 </th>
+</tr>
+
+<tr>
+	<th> Tertiary <br>(1st yr to present) </th>
+	<th> University of Southeasthern Philippines</th>
+	<th> 263 Iñigo St, Obrero, Davao City, Davao del Sur </th>
+	<th> 2015-2019 </th>
+</tr>
+</table>
+</div>
+
+<div>
+<h3>
+	<div style="color:#fff;background-color:#9495a5">
+
+
+<u> SKILLS: </u>
+</h3>
+
+<ul>
+	<h5>
+	<b>
+	<li> Good communication skill
+	<li> Adopt with Microsoft office suite(Word, Excel,Powerpoint
+	<li> Experience in Web Development and Database (HTML,CSS,Php, MYSQL) 
+	<li> Proficient in Turbo C, C++, Java, Html
+	<li> Superb skills in Adobe Flash and Photoshop</li>
+	<h5>
+	<b>
+</ul>
+</div>
+
+<div>
+<h3>
+	<div style="color:#fff;background-color:#9495a5">
+
+<u> PROFESSIONAL REFERENCE: </u>
+</h3>
+
+	
+        
+	<div class="A">Dr. Val SA. Quimno <br> </div>
+	<div class="B">Program Head, Institute of Computing <br> </div>
+	<div class="C">University of Southeastern Philippines <br> </div>
+	<div class="D"> 227-8192 loc 276 <br><br>
+
+
+	<div class="E">Engr. Jamal Kay B. Rogers <br> </div>
+	<div class="F">Research Head, Institute of Computing <br> </div>
+	<div class="G">University of Southeastern Philippines <br></div>
+	<div class="H">227-8192 loc 276 <br>     
+
+
+</div>
+</body>
+</p>
+</html>
